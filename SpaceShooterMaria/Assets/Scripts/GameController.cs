@@ -12,10 +12,19 @@ public class GameController : MonoBehaviour
     public float startWait;
     public float waveWait;
     public Text scoreTxt;
+    public Text gameOverTxt;
+    public Text restartTxt;
     private int score;
+
+    private bool gameOver;
+    private bool restart;
 
     void Start()
     {
+        gameOver = false;
+        restart = false;
+        restartText.text = "";
+        gameOverText.text = "";
         score = 0;
         UpdateScore ();
         StartCoroutine(SpawnWaves());
