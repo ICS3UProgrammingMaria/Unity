@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/s272878/Documents/GitHub/Unity/SpaceShooterMaria/Builds/SpaceShooter.exe
+/Users/maria/Documents/GitHub/Unity/SpaceShooterMaria/Unity/SpaceShooter.exe
 SceneListBegin?
 Assets/_Scenes/Main.unity
 SceneListEnd?
@@ -169,7 +169,7 @@ e1ea12ca952c81d81a9a21fdf34446ed UnityEngine.HoloLens.dll:UnityEngine.EventSyste
 dfd33ff9ae3ce8d7ca1f22b475ec2387 UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 aac9c55ae7ba4b95b852a7d9c191acd1 Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 0a006f3734181ba8b26758f0866152c0 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
-c8cd25c2c500ab69599d13571adc5057 Assembly-CSharp.dll:.GameController
+03d944a02beda92524298d5f6d70fe8f Assembly-CSharp.dll:.GameController
 e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 4e7eddb771817168562dde29334d343e Assembly-CSharp.dll:.Done_PlayerController
 ba1dc7221ef32196712350a64d363c8f Assembly-CSharp.dll:.RandomRotator
